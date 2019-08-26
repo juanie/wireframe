@@ -224,16 +224,12 @@ td {
 .placeholder {
   background: #ccc;
   border: 1px solid black;
-  margin-left:23%;
+  margin-left:10%;
   margin-top:23%;
 
 }
-@media only screen and (max-width: 660px){
-  .placeholder {
-    background: #ccc;
-    border: 1px solid black;
-    margin-left:6%;
+
    
 
-  }
-}
+
+
