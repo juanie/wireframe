@@ -202,6 +202,10 @@ td {
   width: 160vw;
 }
 
+
+
+
+
 @media only screen and (max-width: 660px) {
 
 
@@ -220,6 +224,8 @@ td {
 
   }
 
+
+  
 }
 .placeholder {
   background: #ccc;
@@ -228,6 +234,7 @@ td {
   margin-top:23%;
 
 }
+
 
    
 
